@@ -1,0 +1,11 @@
+.LoadJSON {
+  margin: 15px 5px 0px 0;
+  background: #fff;
+  color: #999;
+  cursor: pointer;
+  width: 100%;
+  outline:none;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}

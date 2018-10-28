@@ -1,0 +1,59 @@
+body {
+  background: #efefef;
+}
+
+.App a {
+  color: #3192e7;
+  text-decoration: none;
+}
+
+.App a:hover {
+  text-decoration: underline;
+  color: #ffaa00;
+}
+
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.App-header h2 {
+  margin: 0;
+  padding: 0;
+  line-height: 24px;
+  font-size: 24px;
+}
+.App-intro {
+  text-align: center;
+  font-size: large;
+}
+
+.App-label {
+  font-size: smaller;
+  color: #999;
+  text-transform: uppercase;
+  font-style: italic;
+  width: 100%;
+  text-align: right;
+}
+
+.App-column {
+  width: 80vw;
+  margin: 2vw 0 0 6vw;
+  padding: 0.75vw;
+  float: left;
+  background: #fff;
+  border: 1px solid #ddd;
+}
+
+.App-footer {
+  color: #999;
+  bottom: 0;
+  text-align: center;
+  box-sizing: border-box;
+  padding: 20px;
+  width: 100%;
+  clear: both;
+}
